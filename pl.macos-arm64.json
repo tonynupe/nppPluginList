@@ -170,6 +170,16 @@
             "description": "Elastic Tabstops — tab-separated text aligns into columns because adjacent lines auto-stretch to match the widest item in each column. No spaces are inserted; only the visual rendering of \\t characters changes.\n\nFeatures:\n- Global mode (uniform column widths across the whole file) and local mode (block-local alignment)\n- Whole-file or selection-only scope\n- Convert Elastic Tabs <-> Spaces with pixel-faithful width preservation\n- Per-extension auto-enable via JSON config\n- Per-file \"Remember enabled files\" persistence across restarts\n- Split-view aware (independent state for primary/secondary view)\n- Large-range warning (>1000 lines) before Space->ET conversion\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/notepad-plus-plus-mac/ElasticTabstops",
             "author": "Justin Dailey, Marius Vasiliu",
             "homepage": "https://github.com/dail8859/ElasticTabstops"
+        },
+        {
+            "folder-name": "XmlNavigator",
+            "display-name": "XML Navigator",
+            "version": "1.0.0",
+            "id": "8d96555940521058c85c45e56c91b0c878d7763bc150f7b436e7c52662712c9b",
+            "repository": "https://github.com/notepad-plus-plus-mac/XmlNavigator/releases/download/v1.0.0/XmlNavigator.zip",
+            "description": "Tree-view navigator for XML documents. Opens a floating panel that renders the active XML document as a hierarchical outline; click any node to jump the editor caret to that position.\n\nFeatures:\n- Compact +/- disclosure markers (no native triangles) matching the Search Results Panel footprint\n- Dense row packing with Cmd+=, Cmd+-, Cmd+0 to zoom the tree font (default 11pt)\n- Hand-rolled UTF-8 XML tokenizer tolerant of ill-formed XML with precise byte offsets per node\n- Filter text field with all-tokens-must-match semantics (order-independent, case-insensitive)\n- Attribute values rendered inline as 'element [attrValue1] [attrValue2]'\n- Six-item right-click menu: Go to Node Start/End, Go to Content Start/End, Select Node/Content\n- Auto-reload on buffer activation, file save, and text changes\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/notepad-plus-plus-mac/XmlNavigator",
+            "author": "Christian Grasser",
+            "homepage": "https://github.com/chcg/XmlNavigator"
         }
     ]
 }
