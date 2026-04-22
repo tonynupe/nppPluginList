@@ -175,7 +175,7 @@
             "folder-name": "XmlNavigator",
             "display-name": "XML Navigator",
             "version": "1.0.0",
-            "id": "8d96555940521058c85c45e56c91b0c878d7763bc150f7b436e7c52662712c9b",
+            "id": "1632ec0c7dfb72015d8c4574e6635a57d829f1b6e1ab102cb0ee9b0996255418",
             "repository": "https://github.com/notepad-plus-plus-mac/XmlNavigator/releases/download/v1.0.0/XmlNavigator.zip",
             "description": "Tree-view navigator for XML documents. Opens a floating panel that renders the active XML document as a hierarchical outline; click any node to jump the editor caret to that position.\n\nFeatures:\n- Compact +/- disclosure markers (no native triangles) matching the Search Results Panel footprint\n- Dense row packing with Cmd+=, Cmd+-, Cmd+0 to zoom the tree font (default 11pt)\n- Hand-rolled UTF-8 XML tokenizer tolerant of ill-formed XML with precise byte offsets per node\n- Filter text field with all-tokens-must-match semantics (order-independent, case-insensitive)\n- Attribute values rendered inline as 'element [attrValue1] [attrValue2]'\n- Six-item right-click menu: Go to Node Start/End, Go to Content Start/End, Select Node/Content\n- Auto-reload on buffer activation, file save, and text changes\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/notepad-plus-plus-mac/XmlNavigator",
             "author": "Christian Grasser",
