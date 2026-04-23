@@ -190,6 +190,16 @@
             "description": "Tree-view navigator, formatter, compressor and validator for JSON documents. Docks into the side-panel host (with pop-out to a floating utility window); click any node to jump the editor caret to its line/column.\n\nFeatures:\n- RapidJSON SAX parser with TrackingStream for line/column per token\n- Format / Compress / Sort-by-key with configurable indent (tab / spaces / auto), EOL (CRLF / LF / CR / auto), and single-line-arrays toggle\n- Validate shows the offending position highlighted in the editor\n- Right-click menu: Copy / Copy name / Copy value / Copy path / Expand all / Collapse all\n- Live tree-filter search with auto-expand\n- Live re-parse on buffer edits (debounced)\n- Lazy NSOutlineView data source — sub-300ms render for multi-MB JSON files\n- Cmd+Option+Shift J/M/C/K shortcuts matching the Windows Ctrl+Alt+Shift chord\n- Follow-current-tab / auto-format-on-open / ignore-comments-and-trailing-commas / replace-undefined settings\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/notepad-plus-plus-mac/JSON-Viewer",
             "author": "NPP-JSONViewer team",
             "homepage": "https://github.com/NPP-JSONViewer/JSON-Viewer"
+        },
+        {
+            "folder-name": "NppLLM",
+            "display-name": "NppLLM",
+            "version": "1.0.0",
+            "id": "17a9dc6f033d63b7453b7aa6954dc2832c169658948e6d446bd04b5eb3f18a15",
+            "repository": "https://github.com/notepad-plus-plus-mac/NppLLM/releases/download/v1.0.0/NppLLM.zip",
+            "description": "Send selected text to any LLM backend and stream the reply back into the editor. Shortcut: Cmd+Shift+O.\n\nSupported backends:\n- OpenAI / Azure OpenAI\n- Anthropic Claude (/v1/messages)\n- Ollama (native /api/generate)\n- LM Studio, vLLM, LocalAI, LiteLLM (OpenAI-compatible)\n- AnythingLLM, Groq, OpenRouter\n- Any other OpenAI-compatible endpoint\n\nFeatures:\n- Streaming reply with main-thread-safe chunk delivery and cancel\n- Wire-compatible NppLLM.ini schema with the Windows NppOpenAI plugin (auto-migrates NppOpenAI.ini on first load)\n- Multi-prompt support via [Prompt:Name] sections in an instructions file (picker sheet at request time)\n- <think>…</think> filtering for reasoning models (toggle via show_reasoning)\n- Keep-my-question toggle (replace vs. append)\n- Chat mode with configurable history window\n- Default INI ships commented-out [API] blocks for 9 backends — just copy one into the live section\n- Dark-mode-aware sheets\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/notepad-plus-plus-mac/NppLLM",
+            "author": "Richard Stockinger",
+            "homepage": "https://github.com/Krazal/nppopenai"
         }
     ]
 }
