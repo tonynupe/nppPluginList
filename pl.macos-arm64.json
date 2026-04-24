@@ -195,7 +195,7 @@
             "folder-name": "NppLLM",
             "display-name": "NppLLM",
             "version": "1.0.0",
-            "id": "17a9dc6f033d63b7453b7aa6954dc2832c169658948e6d446bd04b5eb3f18a15",
+            "id": "0fd7f65c74da99e2f8544da8563005d7c7a1cb7addf2c5ca91a828080137d9cb",
             "repository": "https://github.com/notepad-plus-plus-mac/NppLLM/releases/download/v1.0.0/NppLLM.zip",
             "description": "Send selected text to any LLM backend and stream the reply back into the editor. Shortcut: Cmd+Shift+O.\n\nSupported backends:\n- OpenAI / Azure OpenAI\n- Anthropic Claude (/v1/messages)\n- Ollama (native /api/generate)\n- LM Studio, vLLM, LocalAI, LiteLLM (OpenAI-compatible)\n- AnythingLLM, Groq, OpenRouter\n- Any other OpenAI-compatible endpoint\n\nFeatures:\n- Streaming reply with main-thread-safe chunk delivery and cancel\n- Wire-compatible NppLLM.ini schema with the Windows NppOpenAI plugin (auto-migrates NppOpenAI.ini on first load)\n- Multi-prompt support via [Prompt:Name] sections in an instructions file (picker sheet at request time)\n- <think>…</think> filtering for reasoning models (toggle via show_reasoning)\n- Keep-my-question toggle (replace vs. append)\n- Chat mode with configurable history window\n- Default INI ships commented-out [API] blocks for 9 backends — just copy one into the live section\n- Dark-mode-aware sheets\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/notepad-plus-plus-mac/NppLLM",
             "author": "Richard Stockinger",
