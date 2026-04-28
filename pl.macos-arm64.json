@@ -199,14 +199,14 @@
         {
             "folder-name": "NppMarkdownPanel",
             "display-name": "Markdown Panel",
-            "version": "1.0.1",
-            "id": "58b628d8b2e1770a2ed5120555591d7505b5031417103bfaf6d93d369c5be71f",
-            "repository": "https://github.com/notepad-plus-plus-mac/NppMarkdownPanel/releases/download/v1.0.1/NppMarkdownPanel.zip",
+            "version": "1.0.2",
+            "id": "bfc4c0770a72fb38b22a60bee622480c71f15d2c88d9a2e6a9a801918ebe5673",
+            "repository": "https://github.com/notepad-plus-plus-mac/NppMarkdownPanel/releases/download/v1.0.2/NppMarkdownPanel.zip",
             "description": "Real-time Markdown preview panel. Open a .md file and toggle the panel to see a live-rendered preview alongside the editor. Supports GitHub-flavored Markdown, syntax-highlighted code blocks, relative images, dark mode, scroll synchronization, YAML frontmatter, Mermaid diagrams, and export to HTML. Rendering powered by WKWebView with marked.js + highlight.js.\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/notepad-plus-plus-mac/NppMarkdownPanel",
             "author": "Jens Wollgarten",
             "homepage": "https://github.com/nea/NppMarkdownPanel",
-            "dylib-id": "3c5738b218a66600b5cc6876f50e4276c9dd68e97839a3c4d932ef6a9646ec6a",
-            "dylib-built": "2026-04-22",
+            "dylib-id": "8acb1759053cfc900c49672bd48f3f7495aeb1a5be5f187f547bf4aaff16223d",
+            "dylib-built": "2026-04-28",
             "npp-min-version": "1.0.4"
         },
         {
