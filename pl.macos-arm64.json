@@ -299,6 +299,19 @@
             "dylib-id": "5aa9f7be0b9eb4b6f8485ebc7cf1d681b65c4e0163b6c9c1031dd449882952da",
             "dylib-built": "2026-05-06",
             "npp-min-version": "1.0.6"
+        },
+        {
+            "folder-name": "NPPTextFX2",
+            "display-name": "TextFX2",
+            "version": "1.0.0",
+            "id": "76ad92ac6348f38b5bc68ffeca66d0d3160172a2aaaaa00c4476c843550aee92",
+            "repository": "https://github.com/nextpad-plus-plus/NPPTextFX/releases/download/v1.0.0/NPPTextFX2v1.0.0.zip",
+            "description": "TextFX is a Notepad++ plugin that performs a variety of common conversions on selected text. Single-source Objective-C++ port of dail8859/NPPTextFX, built as a universal arm64+x86_64 dylib.\n\nFeatures (96 commands across Characters / Quick / Convert / Insert / Tools menus):\n- Quote / escape / case conversions, ROT13, EBCDIC, KOI8/CP1251\n- HTML / URI encode, hex/binary/octal/decimal conversions, LE-WORD packing\n- Brace matching (find/mark/delete pairs), mark-word toggles, sort modifiers\n- Sort lines, line numbers, ASCII chart, UUdecode, Base64, word/number count\n- Find/Replace dialog with regex, history dropdowns, and 11 option toggles\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/NPPTextFX",
+            "author": "Don HO, dail8859",
+            "homepage": "https://github.com/dail8859/NPPTextFX",
+            "dylib-id": "d676bd555237d62a9cbe9df1dda82aada9b20acff94891174b1e9f34167f9499",
+            "dylib-built": "2026-05-12",
+            "npp-min-version": "1.0.6"
         }
     ]
 }
