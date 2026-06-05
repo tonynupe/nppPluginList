@@ -238,14 +238,14 @@
         {
             "folder-name": "NppJsonViewer",
             "display-name": "JSON Viewer",
-            "version": "1.0.1",
-            "id": "de348ed70d953fbaf078d97c72fb42876cd0333bf79dbd046326f235d41b1559",
-            "repository": "https://github.com/nextpad-plus-plus/JSON-Viewer/releases/download/v1.0.1/NppJsonViewerv1.0.1.zip",
+            "version": "1.0.2",
+            "id": "13f6fad21708715c985ad4ca3123767f98a6b548b87d9768241dbf17e0718174",
+            "repository": "https://github.com/nextpad-plus-plus/JSON-Viewer/releases/download/v1.0.2/NppJsonViewerv1.0.2.zip",
             "description": "Tree-view navigator, formatter, compressor and validator for JSON documents. Docks into the side-panel host (with pop-out to a floating utility window); click any node to jump the editor caret to its line/column.\n\nFeatures:\n- RapidJSON SAX parser with TrackingStream for line/column per token\n- Format / Compress / Sort-by-key with configurable indent (tab / spaces / auto), EOL (CRLF / LF / CR / auto), and single-line-arrays toggle\n- Validate shows the offending position highlighted in the editor\n- Right-click menu: Copy / Copy name / Copy value / Copy path / Expand all / Collapse all\n- Live tree-filter search with auto-expand\n- Live re-parse on buffer edits (debounced)\n- Lazy NSOutlineView data source — sub-300ms render for multi-MB JSON files\n- Cmd+Option+Shift J/M/C/K shortcuts matching the Windows Ctrl+Alt+Shift chord\n- Follow-current-tab / auto-format-on-open / ignore-comments-and-trailing-commas / replace-undefined settings\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/JSON-Viewer",
             "author": "NPP-JSONViewer team",
             "homepage": "https://github.com/NPP-JSONViewer/JSON-Viewer",
-            "dylib-id": "43c3fde4e2db9844a360b6b4dd56654824d1b934d75f823f310c845191b674ca",
-            "dylib-built": "2026-05-11",
+            "dylib-id": "c60da1ad7eb46e1ad2e79ed52a4a805b094e2ae249a671314ab2029a84aa5166",
+            "dylib-built": "2026-06-05",
             "npp-min-version": "1.0.6"
         },
         {
@@ -402,6 +402,19 @@
             "homepage": "https://github.com/nextpad-plus-plus/PoorMansTSqlFormatter",
             "dylib-id": "443eeff5ad84de687777fe13b17b8b769a4ff44c7167aa9313c033ff58b9c855",
             "dylib-built": "2026-05-30",
+            "npp-min-version": "1.0.7"
+        },
+        {
+            "folder-name": "JSMinNPP",
+            "display-name": "JSTool",
+            "version": "1.0.0",
+            "id": "621984a8d345663c1a67fdd03014f22e1fac0ae7a2453229c6cc1448f2499e3c",
+            "repository": "https://github.com/nextpad-plus-plus/JSMinNPP/releases/download/v1.0.0/JSMinNPPv1.0.0.zip",
+            "description": "JavaScript minifier and formatter, plus JSON sort, for Nextpad++ — the macOS port of Sun Junwen's JSTool (JSMinNpp).\n\nFeatures:\n- JSMin: minify JavaScript (Douglas Crockford's algorithm), in place or to a new file\n- JSFormat: beautify JavaScript/JSON with configurable indent (spaces/tab) and end-of-line (CRLF/LF/auto); works on the whole document or the current selection\n- JSON Sort: sort a JSON document alphabetically by key and reformat, in place or to a new file\n- Options: end-of-line mode, keep top comment when minifying, indent width, keep indent in empty lines\n- JSON Viewer: opens the separate \"JSON Viewer\" plugin's tree panel (install it from Plugins Admin)\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/JSMinNPP",
+            "author": "Sun Junwen",
+            "homepage": "https://github.com/sunjw/jstoolnpp",
+            "dylib-id": "3717de4b73f8cd2bab9867b92fd460108a2c17370f7a46820577fc13ceb14eb3",
+            "dylib-built": "2026-06-05",
             "npp-min-version": "1.0.7"
         }
     ]
