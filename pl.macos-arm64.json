@@ -56,14 +56,14 @@
         {
             "folder-name": "qkNppReverseLines",
             "display-name": "Reverse Lines",
-            "version": "1.0.2",
-            "id": "fdb0b1bab0ba3937dac27649c628bc867f66bc82ae9785144950e40203d88bb8",
-            "repository": "https://github.com/nextpad-plus-plus/qkNppReverseLines/releases/download/v1.0.2/qkNppReverseLinesv1.0.2.zip",
+            "version": "1.0.3",
+            "id": "6b29efd849f669c0989fdcb8daa19d8f27182c4fb15aed6fa9b64171820945a0",
+            "repository": "https://github.com/nextpad-plus-plus/qkNppReverseLines/releases/download/v1.0.3/qkNppReverseLinesv1.0.3.zip",
             "description": "Reverses the order of selected lines or all lines in the document.\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/qkNppReverseLines",
             "author": "Query Kuma",
             "homepage": "https://github.com/query-kuma/qkNppReverseLines",
-            "dylib-id": "85edfdecf4a96f84e8fe13a90b5ead698c8ea492f4213a50b896da6788175b91",
-            "dylib-built": "2026-05-11",
+            "dylib-id": "fe70d07c5320d4913a540b77d396a7f1d257ea67dd4ae5997d82d05168d8a40b",
+            "dylib-built": "2026-06-16",
             "npp-min-version": "1.0.6"
         },
         {
