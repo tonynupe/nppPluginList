@@ -316,14 +316,14 @@
         {
             "folder-name": "xmltools",
             "display-name": "XML Tools",
-            "version": "1.0.0",
-            "id": "820148bbd0e91472adbd9346c170f64ea817fa069d87042baa456341a07e8728",
-            "repository": "https://github.com/nextpad-plus-plus/xmltools/releases/download/v1.0.0/xmltoolsv1.0.0.zip",
+            "version": "1.0.1",
+            "id": "bd5028500fe7ca29736323e97121f7fee673e71ed136c000755f19619e4fa61f",
+            "repository": "https://github.com/nextpad-plus-plus/xmltools/releases/download/v1.0.1/xmltoolsv1.0.1.zip",
             "description": "XML Tools for editing, validating, and navigating XML documents.\n\nFeatures:\n- Check XML syntax and validate, with error navigation and annotations\n- Pretty print (indent attributes / indent only) and Linearize\n- Current XML Path (basic and with predicates)\n- Evaluate XPath expressions\n- XSL Transformation\n- Escape / Unescape and Comment / Uncomment selection\n- Toolbar icons (light and dark mode), individually toggleable in Options\n\nXML engine: libxml2 + libxslt; pretty-print via the bundled QuickXml.\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/xmltools",
             "author": "Nick Gravgaard, morbac",
             "homepage": "https://github.com/morbac/xmltools",
-            "dylib-id": "c94103e235853c96373d612643853965d29cd30f1f9cbf21438c186b16d2446f",
-            "dylib-built": "2026-05-21",
+            "dylib-id": "7233c470b6274fd2ab7c88e28e23affb93ffa564ac096b52ed03118eb927cc23",
+            "dylib-built": "2026-06-16",
             "npp-min-version": "1.0.6"
         },
         {
