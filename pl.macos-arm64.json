@@ -394,14 +394,14 @@
         {
             "folder-name": "PoorMansTSqlFormatter",
             "display-name": "Poor Man's T-Sql Formatter",
-            "version": "1.0.0",
-            "id": "ab356e02b0260a112ac955db42bd4fe1f5c1839480da1259513264d2f7f0c051",
-            "repository": "https://github.com/nextpad-plus-plus/PoorMansTSqlFormatter/releases/download/v1.0.0/PoorMansTSqlFormatterv1.0.0.zip",
+            "version": "1.0.1",
+            "id": "d07224ff110907423d68563180d413dbf57bb3dadfce1dcc38f23abb416d0ec8",
+            "repository": "https://github.com/nextpad-plus-plus/PoorMansTSqlFormatter/releases/download/v1.0.1/PoorMansTSqlFormatterv1.0.1.zip",
             "description": "Format and beautify T-SQL with configurable indentation, keyword casing, and line breaks.\n\nFeatures:\n- Format the current selection, or the whole document when nothing is selected\n- Settings dialog: indent string (\\t / \\s), spaces per tab, max line width, statement/clause breaks\n- Toggles: expand comma lists, trailing commas, space after expanded comma, expand boolean expressions, expand CASE statements, expand BETWEEN conditions, expand IN lists, uppercase keywords, break JOIN ON sections, standardize keywords\n- Keyword standardization (e.g. PROC → PROCEDURE, JOIN → INNER JOIN)\n- [noformat] / [minify] inline regions, and a parse-error \"continue?\" warning\n- Settings persist in the plugins config directory\n\nThe formatting engine is a faithful C++ reimplementation of the original .NET library, validated byte-for-byte against the upstream Windows test corpus.\n\nmacOS port of Tao Klerks' Poor Man's T-SQL Formatter plugin for Notepad++.\nmacOS Author: Andrey Letov\nHomepage: https://github.com/nextpad-plus-plus/PoorMansTSqlFormatter",
             "author": "Tao Klerks",
             "homepage": "https://github.com/nextpad-plus-plus/PoorMansTSqlFormatter",
-            "dylib-id": "443eeff5ad84de687777fe13b17b8b769a4ff44c7167aa9313c033ff58b9c855",
-            "dylib-built": "2026-05-30",
+            "dylib-id": "b6ec5a0d32da8d9e1f76345519b68e9d5be92d645a8b245da4afdfdbecde48c2",
+            "dylib-built": "2026-06-16",
             "npp-min-version": "1.0.7"
         },
         {
