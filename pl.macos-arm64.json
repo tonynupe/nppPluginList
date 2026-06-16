@@ -82,14 +82,14 @@
         {
             "folder-name": "pork2sausage",
             "display-name": "Pork to Sausage",
-            "version": "1.0.1",
-            "id": "4bf7062ee68bb111fd30b4166d927818c7c411ee8514b0d72d767391bdea171a",
-            "repository": "https://github.com/nextpad-plus-plus/pork2sausage/releases/download/v1.0.1/pork2sausagev1.0.1.zip",
+            "version": "1.0.2",
+            "id": "42849b28279156e43c6f7f4cdfc29c341930fdb96496ca158d78459c6f520720",
+            "repository": "https://github.com/nextpad-plus-plus/pork2sausage/releases/download/v1.0.2/pork2sausagev1.0.2.zip",
             "description": "Pipe selected text through user-defined external programs. Supports macros, input/output files, async execution. Includes 7 built-in commands (sort, compress, base64) and a Java demo.\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/pork2sausage",
             "author": "Don HO",
             "homepage": "https://github.com/nicedreams/pork2sausage",
-            "dylib-id": "dd8c154c3c5d881d639943d18a7a35720bc019e5ebd918138cb714a926d90b3b",
-            "dylib-built": "2026-05-11",
+            "dylib-id": "6c37e4de37dd50ba39ddd3e9df06b96702eeccab809160f1175d1fcad629d48b",
+            "dylib-built": "2026-06-16",
             "npp-min-version": "1.0.6"
         },
         {
