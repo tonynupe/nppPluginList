@@ -4,14 +4,14 @@
         {
             "folder-name": "nppURLPlugin",
             "display-name": "URL Encode/Decode Plugin",
-            "version": "1.0.2",
-            "id": "c40de7f23499162dc0690a4891e487cf3c82c636cfadeb70e25566b590214058",
-            "repository": "https://github.com/nextpad-plus-plus/nppURLPlugin/releases/download/v1.0.2/nppURLPluginv1.0.2.zip",
+            "version": "1.0.3",
+            "id": "61944d68a5183d02c582f11857b396268837e9a2806e0f69228583d56f9502d0",
+            "repository": "https://github.com/nextpad-plus-plus/nppURLPlugin/releases/download/v1.0.3/nppURLPluginv1.0.3.zip",
             "description": "URL Encoder and Decoder plug-in for Notepad++ which helps to encode/decode URLs within Notepad++.\n\nHow it works:\n1. Configure settings from menu (Plugins > URL Plugin > URL Plugin Settings).\n2. Select text/URL which you want to encode/decode.\n3. Perform your task via Plugins > URL Plugin > Encode/Decode URL.\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/nppURLPlugin",
             "author": "Rajendra Singh",
             "homepage": "https://github.com/SinghRajenM/nppURLPlugin",
-            "dylib-id": "e293810bdfd5b790280093762603a868f4849c89afbf6bafdc8501fc5ac36989",
-            "dylib-built": "2026-05-11",
+            "dylib-id": "7d5ce1b4d638741899dc8adfa77ace3a89a09fa342886bb9712ce838ed51a6d2",
+            "dylib-built": "2026-06-16",
             "npp-min-version": "1.0.6"
         },
         {
