@@ -342,14 +342,14 @@
         {
             "folder-name": "NppZapGremlins",
             "display-name": "Zap Gremlins",
-            "version": "1.0.0",
-            "id": "0b2df68557368bc29a4299c9e6f747e239de123d53b1c3efdee31a9c7355253a",
-            "repository": "https://github.com/nextpad-plus-plus/NppZapGremlins/releases/download/v1.0.0/NppZapGremlinsv1.0.0.zip",
+            "version": "1.0.1",
+            "id": "dd476ee237a2471ab2a5b4953cb123bb9fa8597e35cf1d64937ff6f217e08943",
+            "repository": "https://github.com/nextpad-plus-plus/NppZapGremlins/releases/download/v1.0.1/NppZapGremlinsv1.0.1.zip",
             "description": "Remove or replace \"gremlin\" characters — invisible, control, or non-ASCII characters that sneak into files and cause subtle bugs (BBEdit-style \"Zap Gremlins\").\n\nSearch categories:\n- Non-ASCII characters (above U+007F)\n- Control characters (C0 except Tab/CR/LF, plus DEL)\n- Null (ASCII 0) characters\n\nActions:\n- Delete\n- Replace with a character of your choice\n- Replace with a \\uXXXX code, optionally transliterating common typographic characters to ASCII first (smart quotes, dashes, NBSP, ...)\n- Replace with an HTML entity (named where available, else numeric)\n\nOperates on the selection if any, else the whole document, as one undo step. Includes an optional \"Highlight gremlins\" toggle.\n\nmacOS Author: Andrey Letov\nHomepage: https://github.com/nextpad-plus-plus/NppZapGremlins",
             "author": "Andrey Letov",
             "homepage": "https://github.com/nextpad-plus-plus/NppZapGremlins",
-            "dylib-id": "062e361b9f6e6b0cf96421d38d4d936d7a10ff8ef1ff8abc77663e1e3ccf64b4",
-            "dylib-built": "2026-05-21",
+            "dylib-id": "ba513214bc7aaabebb32679e3b8d681380bfe357fa27f676f3867ee69074ed33",
+            "dylib-built": "2026-06-16",
             "npp-min-version": "1.0.6"
         },
         {
