@@ -303,14 +303,14 @@
         {
             "folder-name": "NPPTextFX2",
             "display-name": "TextFX2",
-            "version": "1.0.0",
-            "id": "76ad92ac6348f38b5bc68ffeca66d0d3160172a2aaaaa00c4476c843550aee92",
-            "repository": "https://github.com/nextpad-plus-plus/NPPTextFX/releases/download/v1.0.0/NPPTextFX2v1.0.0.zip",
+            "version": "1.0.1",
+            "id": "1fd65e9f4768503cfb7cac8b3b4f27e6000d1605a8f46ff3c66c9567d068adcb",
+            "repository": "https://github.com/nextpad-plus-plus/NPPTextFX/releases/download/v1.0.1/NPPTextFX2v1.0.1.zip",
             "description": "TextFX2 is a Notepad++ plugin which performs a variety of common conversions on selected text.\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/NPPTextFX",
             "author": "Karlheinz Graf",
             "homepage": "https://github.com/dail8859/NPPTextFX",
-            "dylib-id": "d676bd555237d62a9cbe9df1dda82aada9b20acff94891174b1e9f34167f9499",
-            "dylib-built": "2026-05-12",
+            "dylib-id": "4c08b4922a1772cf1a2e45acb534a41a755005a741191ec9b685ef4001604dde",
+            "dylib-built": "2026-06-16",
             "npp-min-version": "1.0.6"
         },
         {
