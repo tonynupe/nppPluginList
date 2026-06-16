@@ -212,14 +212,14 @@
         {
             "folder-name": "ElasticTabstops",
             "display-name": "Elastic Tabstops",
-            "version": "1.0.1",
-            "id": "6a44bd4d810c7ccbdf72a287ad6b82afdf853afae05d481878c5f54737753eec",
-            "repository": "https://github.com/nextpad-plus-plus/ElasticTabstops/releases/download/v1.0.1/ElasticTabstopsv1.0.1.zip",
+            "version": "1.0.2",
+            "id": "e0f6d4d18111f26dc41f71d2d06e6a039ce6114660d2004406d301de58b62d56",
+            "repository": "https://github.com/nextpad-plus-plus/ElasticTabstops/releases/download/v1.0.2/ElasticTabstopsv1.0.2.zip",
             "description": "Elastic Tabstops — tab-separated text aligns into columns because adjacent lines auto-stretch to match the widest item in each column. No spaces are inserted; only the visual rendering of \\t characters changes.\n\nFeatures:\n- Global mode (uniform column widths across the whole file) and local mode (block-local alignment)\n- Whole-file or selection-only scope\n- Convert Elastic Tabs <-> Spaces with pixel-faithful width preservation\n- Per-extension auto-enable via JSON config\n- Per-file \"Remember enabled files\" persistence across restarts\n- Split-view aware (independent state for primary/secondary view)\n- Large-range warning (>1000 lines) before Space->ET conversion\n\nmacOS Port Author: Andrey Letov\nmacOS Homepage: https://github.com/nextpad-plus-plus/ElasticTabstops",
             "author": "Justin Dailey, Marius Vasiliu",
             "homepage": "https://github.com/dail8859/ElasticTabstops",
-            "dylib-id": "9b0e50bb352054f6246093a047563855b664c1c270301d8918475fafde9e00c7",
-            "dylib-built": "2026-05-11",
+            "dylib-id": "34a482bed69dce2f211bffc9c23337992b1fae586607f56b43d23917c82425a1",
+            "dylib-built": "2026-06-16",
             "npp-min-version": "1.0.6"
         },
         {
